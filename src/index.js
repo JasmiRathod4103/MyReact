@@ -6,7 +6,7 @@ const root = createRoot(rootElement);
 const facultydetails = [
   {
     img: "https://darshan.ac.in/U01/Faculty-Photo/5---21-06-2021-10-50-15.jpg",
-    name: "Dr. Gopi Sanghani New",
+    name: "Dr. Gopi Sanghani1",
     post: "Dean - School of Computer Science",
     dept: "CE",
     Experience: "22+ years"
